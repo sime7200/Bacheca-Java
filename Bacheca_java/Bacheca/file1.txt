@@ -1,0 +1,5 @@
+articolo1,100,parola1-parola2,30,true,false,1,giulia@gmail.com,2022-06-02
+articolo2,50,cane-parola2,60,true,false,2,elena@gmail.com,2022-06-02
+articolo3,80,prova,60,true,false,3,angela@gmail.com,2020-06-02
+articolo4,5,gatto-parola1,60,true,false,4,giulia@gmail.com,2022-01-02
+articolo5,50,parolachiave,60,true,false,10,giulia@gmail.com,2022-06-02
